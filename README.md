@@ -30,3 +30,10 @@ This system helps librarians and library users track books and manage resources 
    ```sh
    git clone <YOUR_REPO_URL>
    cd library-management-system
+2. **Install dependencies**
+   ```sh
+   npm install
+3. **Run the development server**
+   ```sh
+   npm run dev
+   
